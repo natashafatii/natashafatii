@@ -1,5 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm Natasha Fatima  
 
+💻 Flutter Developer 
+
+I’m passionate about **mobile app development, problem-solving, and building scalable applications**.  
+Currently focusing on **Flutter + Firebase**, while also exploring **Compiler Construction & System Programming**.  
+
+---
 <!--
 **natashafatii/natashafatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
