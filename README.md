@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about creating **beautiful, functio
 
 ---
 ## 🛠 Tech Stack
-- **Languages:** Dart, C++, Java, Python, SQL  
+- **Languages:** Dart, C++, Python, SQL  
 - **Mobile Development:** Flutter, Android Studio    
 - **Tools:** Git, GitHub, VS Code 
 - **Other:** Data Structures, Operating Systems, Compiler Construction  
