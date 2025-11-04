@@ -55,12 +55,6 @@ Git • GitHub • VS Code • Android Studio • Firebase Console
 - 📊 **CI/CD Pipelines** for Flutter Apps  
 - 🎨 **UI/UX Design Systems** & Human-Centered Design  
 
-
-## 📊 GitHub Insights
-
-![Natasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natashafatii&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natashafatii&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Let’s Connect & Collaborate
