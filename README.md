@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Natasha Fatima**
 
-💻 **Flutter Developer | Mobile App Developer 
+💻 **Flutter Developer | Mobile App Developer** 
 
 Welcome to my GitHub profile! I’m a dedicated **Computer Science student at Bahria University**, passionate about designing and developing **modern, scalable, and user-focused mobile applications** using **Flutter** and **Firebase**.  
 I enjoy turning innovative ideas into functional and aesthetically pleasing apps — where creativity meets clean code. 🚀  
