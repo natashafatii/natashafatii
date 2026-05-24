@@ -1,15 +1,48 @@
 # 👋 Hi, I'm Natasha Fatima
 
-**Computer Science Student** | **AI & ML Enthusiast** | **Flutter developer**
+💻 Computer Science Student | 🤖 AI & ML Engineer (Aspiring) | 📱 Flutter & Android Developer | 📊 Data Science Enthusiast  
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student passionate about software development
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science
-- 💡 I enjoy building real-world applications using Java, Spring Boot, and AI tools
-- 🌱 Currently learning advanced ML concepts and scalable backend systems
+- 🎓 BSCS student at Bahria University, Lahore Campus  
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
+- 📱 Flutter & Android developer building real-world mobile applications  
+- 🌐 Experience in backend development using Flask and Supabase  
+- 📊 Strong interest in data analysis, NLP, and predictive modeling  
+- 🧠 Focused on building intelligent, scalable AI-powered systems  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science (BSCS)**  
+Bahria University, Lahore Campus  
+📅 2023 – 2027 (Expected)
+
+Relevant Coursework:
+- Data Structures & Algorithms  
+- Database Systems  
+- Artificial Intelligence  
+- Machine Learning  
+- Software Engineering  
+- Operating Systems  
+- Data Science Fundamentals  
+- Mobile App Development  
+
+---
+
+## 💼 Experience
+
+### Flutter Development Intern  
+**DevelopersHub Corporation (Remote, Lahore)**  
+📅 Aug 2025 – Oct 2025  
+
+- Built mobile applications using Flutter & Dart  
+- Implemented Provider state management  
+- Developed reusable and responsive UI components  
+- Used Git for version control and collaboration  
 
 ---
 
@@ -17,35 +50,30 @@
 
 | Category | Technologies |
 |----------|--------------|
-| Languages | Java, Python, C++, JavaScript |
-| Web | HTML, CSS, Spring Boot |
-| AI/ML | Basic Machine Learning, Data Analysis, AI Projects |
-| Database | MySQL |
-| Tools | Git, GitHub, VS Code, IntelliJ IDEA |
+| Languages | Python, C++, Dart |
+| Mobile Development | Flutter, Android Studio |
+| Backend | Flask, Supabase |
+| AI/ML | Machine Learning, Data Science, NLP, Deep Learning |
+| Data Analysis | Pandas, NumPy |
+| Data Visualization | Power BI |
+| Databases | MySQL, SQLite, Supabase |
+| Tools | Git, GitHub, VS Code |
 
----
 
-
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=natashafatii&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=natashafatii&layout=compact&theme=tokyonight)
-
----
 
 ## 🎯 Goals
 
-- Build more AI + Machine Learning projects
-- Improve backend development skills (Spring Boot, APIs)
-- Contribute to open-source projects
-- Learn cloud deployment (AWS / Azure basics)
+- Advance in AI/ML engineering and Data Science  
+- Build production-level intelligent systems  
+- Improve backend development (Flask + APIs + Supabase)  
+- Strengthen Flutter + Android development  
+- Contribute to open-source AI projects  
+- Learn cloud deployment (AWS / Docker / Azure basics)  
 
 ---
 
 ## 📫 Connect With Me
 
-- **GitHub:** [github.com/natashafatii](https://github.com/natashafatii)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- 🔗 GitHub: https://github.com/natashafatii  
+- 💼 LinkedIn: https://www.linkedin.com/in/natasha-fatima-3223b0282/  
+- 📧 Email: natashafatima95@gmail.com  
